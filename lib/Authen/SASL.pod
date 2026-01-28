@@ -222,7 +222,8 @@ passing an code reference that, when called, returns the value.
 
 =head1 SEE ALSO
 
-L<Authen::SASL::Perl>, L<Authen::SASL::XS>, L<Authen::SASL::Cyrus>
+L<Authen::SASL::Perl>, L<Authen::SASL::XS>, L<Authen::SASL::Cyrus>,
+L<Authen::SASL::SCRAM>, L<Authen::SASL::Perl::NTLM>
 
 =head1 MAINTAINER
 
